@@ -63,3 +63,4 @@ iOSInjectionProject/
 
 .theos/
 obj/
+packages/
